@@ -5,6 +5,7 @@
     {
       "name": "osu!lazer iOS",
       "iconURL": "https://avatars.githubusercontent.com/u/2592943",
+      "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away!",
       "bundleIdentifier": "sh.ppy.osu.lazer",
       "marketplaceID": "1001",
       "developerName": "ppy",
