@@ -6,14 +6,10 @@
       "name": "osu!lazer iOS",
       "bundleIdentifier": "sh.ppy.osu.lazer",
       "developerName": "ppy",
-      "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png",
-      "tintColor": "FF66AA",
-      "localizedDescription": "Version iOS officielle d’osu!lazer, build 2026.620.0.",
       "versions": [
         {
           "version": "2026.620.0",
           "date": "2026-06-20",
-          "localizedDescription": "Build iOS officielle depuis GitHub.",
           "downloadURL": "https://github.com/ppy/osu/releases/download/2026.620.0-lazer/osu.iOS.ipa"
         }
       ]
