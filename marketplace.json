@@ -4,6 +4,7 @@
   "apps": [
     {
       "name": "osu!lazer iOS",
+      "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png"
       "bundleIdentifier": "sh.ppy.osu.lazer",
       "marketplaceID": "1001",
       "developerName": "ppy",
