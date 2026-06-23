@@ -1,0 +1,17 @@
+{
+  "name": "Toni's Store",
+  "identifier": "fr.toni4819.store",
+  "apps": [
+    {
+      "name": "osu!lazer iOS",
+      "bundleIdentifier": "sh.ppy.osu.lazer",
+      "developerName": "ppy",
+      "version": "2026.620.0",
+      "versionDate": "2026-06-20",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2026.620.0-lazer/osu.iOS.ipa",
+      "localizedDescription": "Version iOS officielle d’osu!lazer, build 2026.620.0.",
+      "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png",
+      "tintColor": "FF66AA"
+    }
+  ]
+}
