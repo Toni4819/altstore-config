@@ -1,10 +1,14 @@
 {
   "name": "Toni's Store",
+  "subtitle": "Just random apps",
+  "description": "Here is some random apps!",
+  "iconURL": "https://avatars.githubusercontent.com/u/132385090",
+  "headerURL": "https://avatars.githubusercontent.com/u/132385090",
   "identifier": "fr.toni4819.store",
   "apps": [
     {
       "name": "osu!lazer iOS",
-      "iconURL": "https://avatars.githubusercontent.com/u/2592943",
+      "iconURL": "https://github.com/ppy/osu/blob/master/assets/lazer.png",
       "localizedDescription": "A free-to-win rhythm game. Rhythm is just a click away!",
       "bundleIdentifier": "sh.ppy.osu.lazer",
       "marketplaceID": "1001",
