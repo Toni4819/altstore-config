@@ -18,7 +18,8 @@
           "version": "2026.620.0",
           "buildVersion": "20266200",
           "date": "2026-06-20",
-          "downloadURL": "https://github.com/ppy/osu/releases/download/2026.620.0-lazer/osu.iOS.ipa"
+          "downloadURL": "https://github.com/ppy/osu/releases/download/2026.620.0-lazer/osu.iOS.ipa",
+          "size": 221249536
         }
       ]
     }
