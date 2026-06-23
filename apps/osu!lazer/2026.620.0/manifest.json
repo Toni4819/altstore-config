@@ -1,1 +1,18 @@
-
+{
+  "items": [
+    {
+      "assets": [
+        {
+          "kind": "software-package",
+          "url": "https://github.com/ppy/osu/releases/download/2026.620.0-lazer/osu.iOS.ipa"
+        }
+      ],
+      "metadata": {
+        "bundle-identifier": "sh.ppy.osu.lazer",
+        "bundle-version": "2026.620.0",
+        "kind": "software",
+        "title": "osu!lazer iOS"
+      }
+    }
+  ]
+}
