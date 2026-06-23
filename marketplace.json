@@ -5,7 +5,11 @@
     {
       "name": "osu!lazer iOS",
       "bundleIdentifier": "sh.ppy.osu.lazer",
+      "marketplaceID": "101",
       "developerName": "ppy",
+      "localizedDescription": "Version iOS officielle d’osu!lazer, build 2026.620.0.",
+      "iconURL": "https://raw.githubusercontent.com/ppy/osu/master/assets/lazer.png",
+      "tintColor": "FF66AA",
       "versions": [
         {
           "version": "2026.620.0",
